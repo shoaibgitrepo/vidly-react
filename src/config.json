@@ -1,0 +1,4 @@
+{
+  "apiEndpoint1": "http://192.168.43.130:3900/api",
+  "apiUrl": "http://localhost:3900/api"
+}
